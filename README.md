@@ -2,8 +2,6 @@
 
 A Python script to automate arbitrage opportunities between decentralized exchanges (DEXs) on the Ethereum network using flash loans. This script requires zero initial capital as it borrows funds, executes the trade, and repays the loan within a single transaction.
 
-## ⚠️ Educational Purpose Only
-
 This bot is provided for educational purposes to demonstrate the logic behind flash loan arbitrage. The crypto market is highly volatile and profitable opportunities are rare and often competed away by bots with lower latency. **Use at your own risk. You are responsible for any financial loss.**
 
 ## Features
